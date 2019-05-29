@@ -1,0 +1,6 @@
+owner=508282392407179265
+prefix=R
+game=Loverrr
+stayinchannel=true
+songinstatus=false
+token=NTgyNzI3MDUzMDQ0ODc1MjY0.XO4dwg.xu9jD6-lxOBQNRedv6os0VpszMI
